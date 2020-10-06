@@ -1,0 +1,46 @@
+
+
+.banner {
+
+
+    width: 100%;
+    height: 60vh;
+    background-image: url(./images/banner.jpg);
+    
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
+
+h1 {
+    position: relative;
+    top: 200px;
+    left: 300px;
+}
+
+.signup {
+
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+
+#gallery {
+
+    position: relative;
+    width: 100%;
+    height: 200px;
+    top: 100px;
+
+
+}
+
+
+view {
+
+width: 400vh;
+height: 700px;
+position: relative;
+
+}
