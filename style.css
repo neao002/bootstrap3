@@ -19,6 +19,15 @@ h1 {
     left: 300px;
 }
 
+.fas {
+
+    color:rgb(158, 158, 235);
+}
+
+.far {
+    color:rgb(158, 158, 235);
+}
+
 .signup {
 
     position: relative;
@@ -43,4 +52,11 @@ width: 400vh;
 height: 700px;
 position: relative;
 
+}
+
+.team-section {
+
+    width: 50%;
+    position: relative;
+    left: 20%;
 }
